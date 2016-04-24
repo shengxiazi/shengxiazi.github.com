@@ -1,2 +1,2 @@
-# shengxiazi.github.io
+# shengxiazi.github.com
 This is a project
